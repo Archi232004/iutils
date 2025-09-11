@@ -9,8 +9,6 @@ iutils/
 │   ├── setup.py
 │   ├── README.md
 │   ├── LICENSE
-│   └── requirements.txt
-├── [next-package]/
 │   └── ...
 └── README.md
 ```
