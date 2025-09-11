@@ -31,4 +31,4 @@ You can install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/Mohampouraz/ipgs.git
-=======
+```
