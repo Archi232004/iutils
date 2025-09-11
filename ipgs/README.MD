@@ -18,8 +18,6 @@ iutils/
 # iPgs – Interactive Animated Progress Bar for Jupyter
 
 
-# iPgs – Interactive Animated Progress Bar for Jupyter
-
 **iPgs** provides an interactive and animated progress bar designed for Jupyter Notebook and Google Colab environments. It enables clear visualization of training or processing progress, including nested loops such as epochs and batches, with automatic computation of estimated completion time (ETA).
 
 ---
