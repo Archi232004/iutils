@@ -1,5 +1,20 @@
 # iPgs
 
+
+iutils/
+├── ipgs/
+│   ├── ipgs/
+│   │   ├── __init__.py
+│   │   └── core.py
+│   ├── setup.py
+│   ├── README.md
+│   ├── LICENSE
+│   └── requirements.txt
+├── [next-package]/
+│   └── ...
+└── README.md
+
+
 A visually stunning progress bar for Jupyter notebooks — inspired by `tqdm`, but reimagined with animation, hover effects, and poetic elegance.  
 Perfect for machine learning training loops, batch iterations, or any iterable you want to elevate visually.
 
@@ -17,4 +32,3 @@ You can install directly from GitHub:
 ```bash
 pip install git+https://github.com/Mohampouraz/ipgs.git
 =======
-iutils/ ├── ipgs/ # Interactive progress bar for Jupyter notebooks │ ├── ipgs/ # Core module │ ├── setup.py # Packaging metadata │ ├── README.md # Package-specific documentation │ ├── LICENSE # MIT License │ └── requirements.txt ├── [next-package]/ # Future utilities (e.g. iPoem, iViz, iForm) │ └── ... └── README.md # This file
