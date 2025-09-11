@@ -23,7 +23,7 @@ pip install ipgs
 
 Want to see `ipgs` in action?
 
-[Run the demo in Google Colab](https:'colab.research.google.com/drive/1KTlj0hht6tb7ddJ705zXYG-REBbSuOAV#scrollTo=K8KtwR1SXOLd&uniqifier=1')
+[Run the demo in Google Colab]('https://colab.research.google.com/drive/1KTlj0hht6tb7ddJ705zXYG-REBbSuOAV#scrollTo=K8KtwR1SXOLd&uniqifier=1')
 
 Or clone the repo and run locally:
 
