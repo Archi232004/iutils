@@ -1,9 +1,9 @@
 
 ---
 
-## 📦 Included Packages
+## Included Packages
 
-### [`ipgs`](./ipgs)
+### 1) [`ipgs`](./ipgs)
 
 > *“Progress, not just measured — but felt.”*
 
