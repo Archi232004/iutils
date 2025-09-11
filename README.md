@@ -22,7 +22,7 @@ pip install ipgs
 **Demo**
 
 
-![Progress Demo](/ipgs/assets/iPgs.gif)
+![Progress Demo](/ipgs/assets/iPgs.mp4)
 
 
 Want to see `ipgs` in action?
