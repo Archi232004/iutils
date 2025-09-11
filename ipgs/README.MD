@@ -1,6 +1,6 @@
 # iPgs
 
-
+```
 iutils/
 ├── ipgs/
 │   ├── ipgs/
@@ -13,7 +13,7 @@ iutils/
 ├── [next-package]/
 │   └── ...
 └── README.md
-
+```
 
 A visually stunning progress bar for Jupyter notebooks — inspired by `tqdm`, but reimagined with animation, hover effects, and poetic elegance.  
 Perfect for machine learning training loops, batch iterations, or any iterable you want to elevate visually.
