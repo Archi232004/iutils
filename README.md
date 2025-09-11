@@ -17,3 +17,17 @@ A visually stunning progress bar for Jupyter notebooks, inspired by `tqdm` but r
 
 ```bash
 pip install ipgs
+
+
+## 🧪 Demo
+
+Want to see `ipgs` in action?
+
+👉 [Run the demo in Google Colab](https://colab.research.google.com/github/Mohampouraz/iutils/blob/main/ipgs/demo.ipynb)
+
+Or clone the repo and run locally:
+
+```bash
+pip install ipgs
+python ipgs/example.py
+
